@@ -1,9 +1,8 @@
 # Bytebank2
 
-Sobre: Banco Digital Bytebank criado no curso de Angular da Alura, possui as funcionalidades de cadastro de nova transferência e a exibição dessas transferências no extrato.
+📝 Sobre: Banco Digital Bytebank criado no curso de Angular da Alura, possui as funcionalidades de cadastro de nova transferência e a exibição dessas transferências no extrato.
 
-Aprendizados: 
-
+📚 Aprendizados: 
 <ul>
   <li>Importar as funcionalidades de formulário para o projeto;</li>
   <li>Escutar o evento de submit do formulário através de event binding;</li>
@@ -22,7 +21,7 @@ Aprendizados:
   <li>Utilizar o RouterLink para melhorar a usabilidade da aplicação;</li>
 </ul>
 
-Link: https://brusatiro.github.io/bytebank/
+🔗 Link: https://brusatiro.github.io/bytebank/
 
 ## Development server
 
