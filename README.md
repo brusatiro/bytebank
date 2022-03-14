@@ -21,8 +21,6 @@
   <li>Utilizar o RouterLink para melhorar a usabilidade da aplicação;</li>
 </ul>
 
-🔗 Link: https://brusatiro.github.io/bytebank/
-
 ## Development server
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
